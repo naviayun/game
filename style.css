@@ -24,7 +24,7 @@
 }
 
 body {
-  font-family: Alegreya;
+  font-family: Helvetica;
   max-width: 900px;
   margin-left: auto;
   margin-right: auto;
@@ -46,7 +46,7 @@ th, td {
 }
 
 td {
-  border: 1px dashed;
+  border: 1px solid;
 }
 
 .choice {
