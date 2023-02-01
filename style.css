@@ -10,7 +10,7 @@
   display: inline;
 }
 #topNav a {
-  color: black;
+  color: white;
   display: inline-block;
   height: 60px;
   line-height: 60px;
@@ -20,5 +20,5 @@
   transition: color 0.3s ease-in;  /*  property | time | method  */
 }
 #topNav a:hover {
-  color: white;
+  color: aqua;
 }
