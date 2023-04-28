@@ -49,3 +49,7 @@ td {
 body {
   background-color: #ECECEC
 }
+
+p {
+  text-align-last: center;
+}
