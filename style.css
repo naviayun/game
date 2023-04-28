@@ -47,7 +47,7 @@ td {
 }
 
 body {
-  background-color: #ECECEC
+  background-color: url("background.png"); 
 }
 
 p {
