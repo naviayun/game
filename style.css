@@ -53,3 +53,9 @@ body {
 p {
   text-align-last: center;
 }
+
+h3 {
+  border-style: groove;
+  border-width: 2px;
+  border-color: #99add1;
+}
