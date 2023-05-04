@@ -1,6 +1,6 @@
 #topNav {
-  background: midnightblue;
-  box-shadow: 0px 1px 10px 10px lightgray;
+  background: #020e3d;
+  box-shadow: 0px 1px 10px 10px #a8abba;
     /* offset-x | offset-y | blur-radius | spread-radius | color */
   height: auto;
   text-align: center;
@@ -10,7 +10,7 @@
   display: inline;
 }
 #topNav a {
-  color: white;
+  color: #ffffff;
   display: inline-block;
   height: 60px;
   line-height: 60px;
@@ -20,7 +20,7 @@
   transition: color 0.3s ease-in;  /*  property | time | method  */
 }
 #topNav a:hover {
-  color: turquoise;
+  color: #99c5d1;
 }
 
 body {
@@ -34,28 +34,16 @@ h2 {
   text-align: center;
 }
 
-th, td {
-  padding: 8px;
-}
-
-td {
-  border: 1px solid;
-}
-
 .choice {
   font-style: italic;
-}
-
-body {
-  background-color: url("background.png"); 
-}
-
-p {
-  text-align-last: center;
 }
 
 h3 {
   border-style: groove;
   border-width: 2px;
   border-color: #99add1;
+}
+
+h3 {
+  text-align: center;
 }
